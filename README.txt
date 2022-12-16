@@ -4,7 +4,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## Getting Started
 
-To view my portfolio website, simply visit the following URL: [www.itsmundo.github.io]
+To view my portfolio website, simply visit the following URL: [www.github.itsmundo.io]
 
 ## Built With
 
